@@ -42,8 +42,8 @@ CREATE TABLE `product` (
 --
 
 INSERT INTO `product` (`id`, `name`, `price`, `description`, `created_at`, `updated_at`) VALUES
-(1, 'POLO NAM BAMBOO', 150000, 'Chất liệu: Cottton bamboo\r\n\r\nĐặc tính: Siêu mát, nhẹ, thấm hút mồ hôi đem đến sự thoải mái cho chàng trong ngày nóng lực', '2020-08-08 03:37:56', '2020-08-08 03:37:56'),
-(2, 'BASIC TEE - ANANAS CROPPED SYMBOL - BUNGEE CORD', 269000, 'Áo thun trơn, ngắn tay, cổ tròn cùng họa tiết Ananas Cropped Symbol in trên ngực áo. Phom dáng cổ điển và linh hoạt, thích hợp cho cả Nam và Nữ.', '2020-08-07 21:02:29', '2020-08-07 21:10:04');
+(1, 'HOODIE NAM SLAM', 150000, 'Chất liệu: Cottton slam\r\n\r\nĐặc tính: Thoáng mát, nhẹ, thấm hút mồ hôi, rất phù hợp với tiết trời mùa thu', '2020-08-08 03:37:56', '2020-08-08 03:37:56'),
+(2, 'OLD SKOOL TEA - VANS OFF THE WALL - VANS CORP', 269000, 'Áo thun trơn, ngắn tay, cổ tròn cùng họa tiết VANS OFF THE WALL in trên ngực áo. Phom dáng classic và linh hoạt, thích hợp cho cả Nam và Nữ.', '2020-08-07 21:02:29', '2020-08-07 21:10:04');
 
 --
 -- Chỉ mục cho các bảng đã đổ
